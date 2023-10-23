@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Prefabs"  LoadType="1" Packed="True" />
+      <Resource Name="UI"  LoadType="1" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="26e717afbacd4c044bf47f8dcf7be68f" ResourceName="Prefabs" />
+      <Asset Guid="98a04d6cb3fdf2049b1c8b51bb537ff6" ResourceName="UI" />
+      <Asset Guid="ab0b7f3de5ccd7b49aba611b78b03382" ResourceName="UI" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

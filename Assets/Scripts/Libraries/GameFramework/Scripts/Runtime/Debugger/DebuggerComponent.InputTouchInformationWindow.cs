@@ -1,0 +1,57 @@
+﻿//------------------------------------------------------------
+// Game Framework
+// Copyright © 2013-2021 Jiang Yin. All rights reserved.
+// Homepage: https://gameframework.cn/
+// Feedback: mailto:ellan@gameframework.cn
+//------------------------------------------------------------
+
+using GameFramework;
+using UnityEngine;
+#if ENABLE_INPUT_SYSTEM
+using UnityEngine.InputSystem;
+#endif
+
+namespace UnityGameFramework.Runtime
+{
+    public sealed partial class DebuggerComponent : GameFrameworkComponent
+    {
+        private sealed class InputTouchInformationWindow : ScrollableDebuggerWindowBase
+        {
+            protected override void OnDrawScrollableWindow()
+            {
+                GUILayout.Label("<b>Input Touch Information</b>");
+                GUILayout.BeginVertical("box");
+                {
+#if ENABLE_INPUT_SYSTEM
+#elif ENABLE_LEGACY_INPUT_MANAGER
+                    DrawItem("Touch Supported", Input.touchSupported.ToString());
+                    DrawItem("Touch Pressure Supported", Input.touchPressureSupported.ToString());
+                    DrawItem("Stylus Touch Supported", Input.stylusTouchSupported.ToString());
+                    DrawItem("Simulate Mouse With Touches", Input.simulateMouseWithTouches.ToString());
+                    DrawItem("Multi Touch Enabled", Input.multiTouchEnabled.ToString());
+                    DrawItem("Touch Count", Input.touchCount.ToString());
+                    DrawItem("Touches", GetTouchesString(Input.touches));
+#endif
+
+                }
+                GUILayout.EndVertical();
+            }
+
+            private string GetTouchString(Touch touch)
+            {
+                return Utility.Text.Format("{0}, {1}, {2}, {3}, {4}", touch.position, touch.deltaPosition, touch.rawPosition, touch.pressure, touch.phase);
+            }
+
+            private string GetTouchesString(Touch[] touches)
+            {
+                string[] touchStrings = new string[touches.Length];
+                for (int i = 0; i < touches.Length; i++)
+                {
+                    touchStrings[i] = GetTouchString(touches[i]);
+                }
+
+                return string.Join("; ", touchStrings);
+            }
+        }
+    }
+}

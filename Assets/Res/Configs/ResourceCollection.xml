@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Data" LoadType="0" Packed="True" />
+      <Resource Name="Entity" LoadType="0" Packed="True" />
+      <Resource Name="Materials" LoadType="0" Packed="True" />
+      <Resource Name="Scenes" LoadType="0" Packed="True" />
+      <Resource Name="Sprite" LoadType="0" Packed="True" />
+      <Resource Name="UI" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="10dd09ecb08cf42459928deca6e46bc3" ResourceName="Data" />
+      <Asset Guid="16ee25b8ad45485439470a1ca9b841f7" ResourceName="Entity" />
+      <Asset Guid="18b9d03cd49f52e4ca77cf6750408347" ResourceName="Data" />
+      <Asset Guid="1aeaf9f735897e043934a1910c271e98" ResourceName="Entity" />
+      <Asset Guid="1dd18cca36ae5114a8e339b71eb64066" ResourceName="Data" />
+      <Asset Guid="28860c3e572409e438f46668fd49cae7" ResourceName="Sprite" />
+      <Asset Guid="40828299846c4a145abfa4a6c432d65b" ResourceName="Scenes" />
+      <Asset Guid="46262ed4cdf0b264ab03b3453e27acdc" ResourceName="UI" />
+      <Asset Guid="46b6dc6a700b992439d8c5eea30caf70" ResourceName="Data" />
+      <Asset Guid="480c16a09da972942adc30795270c72b" ResourceName="Entity" />
+      <Asset Guid="557d7f9dd20c55d4ab0c893d21d762b2" ResourceName="Data" />
+      <Asset Guid="58dec3d00a1c9a64899c3200a1ba69e4" ResourceName="Entity" />
+      <Asset Guid="62f49916726dded4a838deca0ef77aa7" ResourceName="Entity" />
+      <Asset Guid="676d52e2c4d0f064985fce81bf38a33c" ResourceName="Data" />
+      <Asset Guid="7672b4440d3784e449b7654fb59ae970" ResourceName="Entity" />
+      <Asset Guid="7ce06547baa97a442bcfda6fb8b99006" ResourceName="Data" />
+      <Asset Guid="7dc4290759ba9f048895a7f2a71b9d5c" ResourceName="Entity" />
+      <Asset Guid="90f2616fd6c20b042a0092ff9198c6d7" ResourceName="Data" />
+      <Asset Guid="9792c02cd72bb374a95592e3a62ea812" ResourceName="Entity" />
+      <Asset Guid="98a04d6cb3fdf2049b1c8b51bb537ff6" ResourceName="UI" />
+      <Asset Guid="a6caaa6220265394696b09ab076c7f26" ResourceName="Entity" />
+      <Asset Guid="ad3d94177c6e5524da2e1b6e5087d78e" ResourceName="Entity" />
+      <Asset Guid="b6b69643a12ee314aa942f8d18a98894" ResourceName="Entity" />
+      <Asset Guid="b70a560b08a853c4099f9fa5c0941751" ResourceName="Materials" />
+      <Asset Guid="b873c8f7d33a5e8498532f1f5286f470" ResourceName="Data" />
+      <Asset Guid="c6a0947bbd23b6d478a1172416f72f9c" ResourceName="Scenes" />
+      <Asset Guid="cd62fda924cff054f9ee3a76572c2f1f" ResourceName="Entity" />
+      <Asset Guid="de89b8a7fa129894d9e73e574b339c58" ResourceName="Entity" />
+      <Asset Guid="e618e5b3ce64ea5478f7f7f7b0eb4ce6" ResourceName="Data" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

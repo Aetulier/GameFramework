@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
 #if !ODIN_INSPECTOR
     [CustomEditor(typeof(SpriteCollectionComponent))]

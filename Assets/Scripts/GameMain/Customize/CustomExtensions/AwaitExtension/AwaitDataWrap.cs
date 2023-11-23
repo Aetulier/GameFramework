@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using GameFramework;
 
-namespace GameName.Await
+namespace GameMain.Await
 {
     /// <summary>
     /// Await包装类

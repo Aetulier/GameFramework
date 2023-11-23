@@ -5,7 +5,7 @@ using UnityGameFramework.Runtime;
 using UnityEngine.UI;
 using GameFramework.Event;
 
-namespace GameName
+namespace GameMain
 {
     public class UITest : UIFormLogic
     {

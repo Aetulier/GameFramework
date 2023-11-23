@@ -4,7 +4,7 @@ using System;
 using Sirenix.OdinInspector;
 #endif
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public partial class SpriteCollectionComponent
     {

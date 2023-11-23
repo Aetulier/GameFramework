@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     public static partial class Constant
     {

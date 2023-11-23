@@ -1,6 +1,6 @@
 using GameFramework;
 
-namespace GameName.Await
+namespace GameMain.Await
 {
     /// <summary>
     /// web 访问结果

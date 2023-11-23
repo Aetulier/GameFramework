@@ -13,7 +13,7 @@ using ExcelDataReader;
 using System.IO;
 using System.Linq;
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public sealed class DataTableGeneratorMenu
     {

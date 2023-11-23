@@ -1,9 +1,9 @@
 using System;
 using UnityEditor;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
-    [InitializeOnLoadAttribute]
+    [InitializeOnLoad]
     public static class InitializeOnLoad
     {
         static InitializeOnLoad()

@@ -7,7 +7,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameName.SearchableEnum.Editor
+namespace GameMain.SearchableEnum.Editor
 {
     /// <summary>
     /// Draws the custom enum selector popup for enum fileds using the

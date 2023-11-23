@@ -1,11 +1,11 @@
 ﻿using GameFramework.Event;
 using GameFramework.Procedure;
 using GameFramework.Resource;
-using GameName.Await;
+using GameMain.Await;
 using UnityGameFramework.Runtime;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedureSplash : ProcedureBase
     {

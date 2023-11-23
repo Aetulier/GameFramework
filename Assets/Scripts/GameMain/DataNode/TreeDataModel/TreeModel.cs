@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-namespace GameName.Tree
+namespace GameMain.Tree
 {
 
 	public class TreeModel<T> where T : TreeElement

@@ -1,7 +1,7 @@
 using GameFramework;
 using GameFramework.Event;
 
-namespace GameName
+namespace GameMain
 {
     public class GameEventBase : GameEventArgs
     {

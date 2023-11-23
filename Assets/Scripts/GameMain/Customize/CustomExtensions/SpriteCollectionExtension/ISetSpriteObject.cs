@@ -1,7 +1,7 @@
 using GameFramework;
 using UnityEngine;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public interface ISetSpriteObject: IReference
     {

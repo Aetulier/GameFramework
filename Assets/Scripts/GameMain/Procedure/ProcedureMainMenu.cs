@@ -2,7 +2,7 @@ using UnityEngine;
 using GameFramework.Procedure;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedureMainMenu : ProcedureBase
     {

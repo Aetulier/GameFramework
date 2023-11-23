@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public static class SpriteCollectionUtility
     {

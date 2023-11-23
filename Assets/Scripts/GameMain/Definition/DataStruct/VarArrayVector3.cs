@@ -8,7 +8,7 @@
 using GameFramework;
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     /// <summary>
     /// UnityEngine.Vector3[] 变量类。

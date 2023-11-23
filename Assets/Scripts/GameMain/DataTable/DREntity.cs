@@ -5,7 +5,7 @@
 // Feedback: mailto:ellan@gameframework.cn
 //------------------------------------------------------------
 // 此文件由工具自动生成，请勿直接修改。
-// 生成时间：2023-10-20 15:07:43.097
+// 生成时间：2023-11-23 11:20:16.843
 //------------------------------------------------------------
 
 using GameFramework;
@@ -16,7 +16,7 @@ using System.Text;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace GameName
+namespace GameMain
 {
     /// <summary>
     /// 实体表。

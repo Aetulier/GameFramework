@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GameName.Timer
+namespace GameMain.Timer
 {
     public class UGFCancellationToken
     {

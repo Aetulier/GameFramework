@@ -10,7 +10,7 @@ using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public partial class SpriteCollectionComponent : CustomizeComponent, ICustomizeModule
     {

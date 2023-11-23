@@ -2,7 +2,7 @@ using GameFramework;
 using GameFramework.ObjectPool;
 using UnityGameFramework.Runtime;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public class SpriteCollectionItemObject : ObjectBase
     {

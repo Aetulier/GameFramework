@@ -6,7 +6,7 @@ using GameFramework;
 using System.Linq;
 using UnityEditor;
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public static class ExtensionsGenerate
     {
@@ -50,7 +50,7 @@ namespace GameName.Editor.DataTableTools
         {
             var sb = new StringBuilder();
             AddNameSpaces(sb);
-            sb.AppendLine($"namespace GameName");
+            sb.AppendLine($"namespace GameMain");
             sb.AppendLine("{");
             sb.AppendLine("\tpublic static partial class DataTableExtension");
             sb.AppendLine("\t{");
@@ -96,7 +96,7 @@ namespace GameName.Editor.DataTableTools
             var sb = new StringBuilder();
             AddNameSpaces(sb);
 
-            sb.AppendLine($"namespace GameName");
+            sb.AppendLine($"namespace GameMain");
             sb.AppendLine("{");
             sb.AppendLine("\tpublic static partial class BinaryReaderExtension");
             sb.AppendLine("\t{");

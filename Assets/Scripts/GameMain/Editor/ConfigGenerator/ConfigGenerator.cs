@@ -6,7 +6,7 @@ using ExcelDataReader;
 using System.IO;
 using GameFramework;
 
-namespace GameName.Editor.ConfigTools {
+namespace GameMain.Editor.ConfigTools {
 
     public sealed class ConfigGenerator 
     {

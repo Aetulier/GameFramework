@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     /// <summary>
     /// 游戏入口。

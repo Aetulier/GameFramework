@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GameName.Timer
+namespace GameMain.Timer
 {
     public static class TimerTimeUtility
     {

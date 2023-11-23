@@ -10,7 +10,7 @@ using UnityGameFramework.Runtime;
 
 using REntity = UnityGameFramework.Runtime.Entity;
 
-namespace GameName.Await
+namespace GameMain.Await
 {
     public static partial class AwaitableExtensions
     {

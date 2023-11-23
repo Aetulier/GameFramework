@@ -1,7 +1,7 @@
 using System;
 using GameFramework;
 
-namespace GameName.Await
+namespace GameMain.Await
 {
     /// <summary>
     /// DownLoad 结果

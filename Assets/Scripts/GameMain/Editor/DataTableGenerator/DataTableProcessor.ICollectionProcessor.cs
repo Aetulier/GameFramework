@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

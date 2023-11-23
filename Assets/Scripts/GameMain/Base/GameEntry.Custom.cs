@@ -5,12 +5,12 @@
 // Feedback: mailto:ellan@gameframework.cn
 //------------------------------------------------------------
 
+using GameMain.SpriteCollection;
+using GameMain.Timer;
 using UnityEngine;
 using UnityGameFramework.Runtime;
-using GameName.Timer;
-using GameName.SpriteCollection;
 
-namespace GameName
+namespace GameMain
 {
     /// <summary>
     /// 游戏入口。

@@ -5,7 +5,7 @@
 	
 	<!--指定程序集中的指定命名空间-->
 	<assembly fullname="Assembly-CSharp">
-		<namespace fullname="GameName" preserve="all"/>
+		<namespace fullname="GameMain" preserve="all"/>
 	</assembly>
 	
 	<!--指定程序集某个类-->

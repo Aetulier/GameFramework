@@ -3,7 +3,7 @@ using System.Linq;
 using JetBrains.Annotations;
 
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public static class DataTableProcessorExtensions
     {

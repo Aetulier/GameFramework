@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace GameName
+namespace GameMain
 {
 
     public sealed class VarIntArray : Variable<int[]>

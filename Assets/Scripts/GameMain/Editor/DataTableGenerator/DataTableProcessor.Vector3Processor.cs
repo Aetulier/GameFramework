@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using UnityEngine;
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

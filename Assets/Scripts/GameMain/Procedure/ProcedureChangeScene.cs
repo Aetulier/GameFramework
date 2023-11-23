@@ -6,7 +6,7 @@ using GameFramework.Procedure;
 using UnityGameFramework.Runtime;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
-namespace GameName {
+namespace GameMain {
     public class ProcedureChangeScene : ProcedureBase
     {
         //private int m_NextSceneId = 0;

@@ -1,5 +1,5 @@
 
-namespace GameName
+namespace GameMain
 {
     public static class StringUtility 
     {

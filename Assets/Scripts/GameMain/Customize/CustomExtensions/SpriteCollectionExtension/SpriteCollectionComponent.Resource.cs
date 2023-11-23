@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using GameFramework.Resource;
 using UnityGameFramework.Runtime;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public partial class SpriteCollectionComponent
     {

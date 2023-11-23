@@ -1,7 +1,7 @@
 using UnityEngine.UI;
 using UnityGameFramework.Runtime;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public static partial class SetSpriteExtensions
     {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using GameName.Await;
+using GameMain.Await;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public partial class SpriteCollectionComponent
     {

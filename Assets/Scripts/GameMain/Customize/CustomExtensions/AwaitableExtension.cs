@@ -7,7 +7,7 @@ using GameFramework.Resource;
 using UnityGameFramework.Runtime;
 using GameFramework.Event;
 
-namespace GameName
+namespace GameMain
 {
     //public static class AwaitableExtension
     //{

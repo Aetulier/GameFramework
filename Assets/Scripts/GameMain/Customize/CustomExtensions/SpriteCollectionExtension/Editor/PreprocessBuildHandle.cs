@@ -1,7 +1,7 @@
 using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public  class PreprocessBuildHandle: IPreprocessBuildWithReport
     {

@@ -10,7 +10,7 @@ using GameFramework.Sound;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace GameName
+namespace GameMain
 {
     public static class SoundExtension
     {

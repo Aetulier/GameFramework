@@ -9,7 +9,7 @@ using TMPro;
 using DG.Tweening;
 
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedurePreload : ProcedureBase
     {
@@ -66,7 +66,7 @@ namespace GameName
                 }
             }
             procedureOwner.SetData<VarInt32>("NextSceneId", GameEntry.Config.GetInt("Scene.Main"));
-            procedureOwner.SetData<VarString>("NextProcedureName", "GameName.ProcedureStartMenu");
+            procedureOwner.SetData<VarString>("NextProcedureName", "GameMain.ProcedureStartMenu");
             ChangeState<ProcedureChangeScene>(procedureOwner);
         }
 

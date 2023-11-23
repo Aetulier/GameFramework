@@ -5,7 +5,7 @@ using UnityGameFramework.Runtime;
 using Cinemachine;
 using UnityEngine.Rendering;
 
-namespace GameName
+namespace GameMain
 {
     public class CameraComponent : CustomizeComponent, ICustomizeModule
     {

@@ -4,7 +4,7 @@ using UnityEditor;
 using System.Text;
 using System;
 
-namespace GameName.Editor
+namespace GameMain.Editor
 {
     public class UTF_8 : EditorWindow
     {

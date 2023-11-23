@@ -14,7 +14,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityGameFramework.Editor.ResourceTools;
 
-namespace GameName.Editor
+namespace GameMain.Editor
 {
     public sealed class BuildEventHandler : IBuildEventHandler
     {

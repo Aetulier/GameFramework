@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameName.Editor{
+namespace GameMain.Editor{
 
     [CanEditMultipleObjects]
     [CustomEditor(typeof(MonoBehaviour), true)]

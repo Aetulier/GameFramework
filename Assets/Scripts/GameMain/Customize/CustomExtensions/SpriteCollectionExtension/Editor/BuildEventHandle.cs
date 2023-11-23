@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityGameFramework.Editor.ResourceTools;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     public class BuildEventHandle : IBuildEventHandler
     {

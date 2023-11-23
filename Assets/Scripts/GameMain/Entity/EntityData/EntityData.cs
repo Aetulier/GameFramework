@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     [Serializable]
     public abstract class EntityData

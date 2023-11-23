@@ -6,7 +6,7 @@ using GameFramework.Customize;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace GameName.Timer
+namespace GameMain.Timer
 {
     public class TimerComponent : CustomizeComponent, ICustomizeModule
     {

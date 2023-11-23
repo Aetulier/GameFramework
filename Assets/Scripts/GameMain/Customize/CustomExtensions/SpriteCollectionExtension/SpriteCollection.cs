@@ -19,7 +19,7 @@ using UnityEngine;
 using UnityEngine.U2D;
 using Object = UnityEngine.Object;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     [CreateAssetMenu(fileName = "SpriteCollection", menuName = "UGFExtensions/SpriteCollection", order = 0)]
 #if ODIN_INSPECTOR

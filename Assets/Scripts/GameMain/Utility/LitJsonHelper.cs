@@ -9,7 +9,7 @@ using GameFramework;
 using LitJson;
 using System;
 
-namespace GameName
+namespace GameMain
 {
     /// <summary>
     /// LitJSON 函数集辅助器。

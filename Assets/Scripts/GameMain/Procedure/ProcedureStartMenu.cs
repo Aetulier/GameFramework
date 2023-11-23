@@ -3,7 +3,7 @@ using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedure
 using UnityGameFramework.Runtime;
 using GameFramework.Event;
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedureStartMenu : ProcedureBase
     {
@@ -31,7 +31,7 @@ namespace GameName
             if (EnterGame)
             {
                 procedureOwner.SetData<VarInt32>("NextSceneId", GameEntry.Config.GetInt("Scene.Battle"));
-                procedureOwner.SetData<VarString>("NextProcedureName", "GameName.ProcedureBattle");
+                procedureOwner.SetData<VarString>("NextProcedureName", "GameMain.ProcedureBattle");
                 ChangeState<ProcedureChangeScene>(procedureOwner);
             }
                

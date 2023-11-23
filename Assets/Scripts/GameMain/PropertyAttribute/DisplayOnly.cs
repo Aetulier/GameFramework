@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GameName.Editor
+namespace GameMain.Editor
 {
     public class DisplayOnly : PropertyAttribute
     {

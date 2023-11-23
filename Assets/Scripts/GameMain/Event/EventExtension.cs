@@ -2,7 +2,7 @@
 using GameFramework.Event;
 using UnityGameFramework.Runtime;
 
-namespace GameName
+namespace GameMain
 {
     public static class EventExtension
     {

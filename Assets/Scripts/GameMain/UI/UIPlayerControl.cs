@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     public class UIPlayerControl : UGuiForm
     {

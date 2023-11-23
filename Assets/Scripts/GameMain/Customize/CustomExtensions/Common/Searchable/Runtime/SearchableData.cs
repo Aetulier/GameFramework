@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace GameName.SearchableEnum
+namespace GameMain.SearchableEnum
 {
     [Serializable]
     public class SearchableData

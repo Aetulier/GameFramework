@@ -2,7 +2,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameName.SearchableEnum.Editor
+namespace GameMain.SearchableEnum.Editor
 {
     [CustomPropertyDrawer(typeof(SearchableData))]
     public class SearchableDataDrawer : PropertyDrawer

@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace GameName
+namespace GameMain
 {
     public class BuiltinDataComponent : GameFrameworkComponent
     {

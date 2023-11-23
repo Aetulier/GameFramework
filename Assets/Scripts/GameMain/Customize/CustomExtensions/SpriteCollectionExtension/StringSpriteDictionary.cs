@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace GameName
+namespace GameMain
 {
     [Serializable]
     public class StringSpriteDictionary : SerializableDictionary<string, Sprite> {}

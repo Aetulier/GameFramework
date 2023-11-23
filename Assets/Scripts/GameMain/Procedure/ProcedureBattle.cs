@@ -4,7 +4,7 @@ using GameFramework.Event;
 using UnityGameFramework.Runtime;
 
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedureBattle : ProcedureBase
     {

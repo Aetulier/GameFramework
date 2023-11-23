@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityGameFramework.Runtime;
 
-namespace GameName
+namespace GameMain
 {
     public abstract class UGuiForm : UIFormLogic
     {

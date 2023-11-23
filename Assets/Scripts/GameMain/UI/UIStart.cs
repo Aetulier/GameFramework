@@ -7,7 +7,7 @@ using GameFramework;
 using GameFramework.UI;
 using GameFramework.Resource;
 
-namespace GameName
+namespace GameMain
 {
     public class UIStart : UGuiForm
     {

@@ -11,7 +11,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace GameName.Editor.DataTableTools
+namespace GameMain.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

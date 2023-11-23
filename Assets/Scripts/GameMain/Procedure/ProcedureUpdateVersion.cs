@@ -3,7 +3,7 @@ using GameFramework.Resource;
 using UnityGameFramework.Runtime;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
-namespace GameName
+namespace GameMain
 {
     public class ProcedureUpdateVersion : ProcedureBase
     {

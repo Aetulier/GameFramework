@@ -9,7 +9,7 @@ using Sirenix.Serialization;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace GameName.SpriteCollection
+namespace GameMain.SpriteCollection
 {
     [Serializable]
     public class WaitSetImage : ISetSpriteObject
